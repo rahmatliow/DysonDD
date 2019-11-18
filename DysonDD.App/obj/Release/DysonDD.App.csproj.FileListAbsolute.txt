@@ -1,0 +1,5 @@
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\bin\Release\DysonDD.App.dll
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\bin\Release\DysonDD.App.pdb
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\bin\Release\Csla.dll
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\obj\Release\DysonDD.App.dll
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\obj\Release\DysonDD.App.pdb

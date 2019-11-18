@@ -1,0 +1,6 @@
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\bin\Debug\DysonDD.App.dll
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\bin\Debug\DysonDD.App.pdb
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\bin\Debug\Csla.dll
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\obj\Debug\DysonDD.App.csprojResolveAssemblyReference.cache
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\obj\Debug\DysonDD.App.dll
+C:\Project_data\cs\DysonDD2019\DysonDD\DysonDD.App\obj\Debug\DysonDD.App.pdb
